@@ -73,7 +73,7 @@ Make sure you have the following tools installed on your machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/gazzela.git](https://github.com/YOUR_USERNAME/gazzela.git)
+    git clone [https://github.com/pedroseco7/Gazzela.git](https://github.com/pedroseci7/Gazzela.git)
     cd gazzela
     ```
 
