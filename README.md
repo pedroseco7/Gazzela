@@ -43,7 +43,6 @@ Gazzela's philosophy is based on scientifically proven training principles, tran
 
 The project is designed with a decoupled services architecture to ensure scalability, maintainability, and performance.
 
-![Gazzela Architecture Diagram]
 ![486091312-dea703c7-7ea5-4477-abb1-1710d3a448b3](https://github.com/user-attachments/assets/63cd5bbc-892a-4bb6-804b-a11e1e68f31e)
 
 
