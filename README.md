@@ -44,7 +44,6 @@ Gazzela's philosophy is based on scientifically proven training principles, tran
 The project is designed with a decoupled services architecture to ensure scalability, maintainability, and performance.
 
 ![Gazzela Architecture Diagram](https://github.com/pedroseco7/Gazzela/issues/1#issue-3387299766)
-*(Note: I suggest you upload the diagram you created to GitHub or a service like Imgur and replace this link)*
 
 * **Frontend (Mobile App):** `React Native`
 * **Backend (API Gateway):** `Python 3` with `FastAPI`
